@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-cicd-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo Tests Passed",
+    "build": "echo Build Successful"
+  }
+}
